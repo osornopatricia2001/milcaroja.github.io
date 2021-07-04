@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cont {
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+#header {
+    background-color: #C4F3FF;
+    padding: 10px;
+}
+#menu {
+    background-color: #FFF6BC;
+    padding: 10px;
+    margin-top: 10px;
+}
+#bienvenido {
+    background-color: #FF575A;
+    padding: 10px;
+    color: #FFFFFF;
+    margin-right: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#historia {
+    background-color: #FFE8C3;
+    padding-top: 36px;
+    padding-right: 36px;
+    padding-left: 36px;
+    padding-bottom: 36px;
+    color: #FF0004;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+#historia p img2 {
+}
+
+#historia p img {
+    float: left;
+    padding-right: 10px;
+}
+
+#productos {
+    background-color: #FF6C6E;
+    padding-top: 36px;
+    padding-right: 36px;
+    padding-left: 36px;
+    padding-bottom: 36px;
+    color: #FFFFFF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: none;
+}
+h2 strong img {
+    float: left;
+    padding-right: 10px;
+}
+
+#productos p img {
+    float: left;
+    padding-right: 10px;
+}
+
+#compras {
+    background-color: #FFE8C3;
+    padding-top: 39px;
+    padding-right: 39px;
+    padding-left: 39px;
+    padding-bottom: 39px;
+    color: #FF0004;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#compras p img {
+    float: left;
+    padding-right: 10px;
+    text-align: right;
+}
+
+#contacto {
+    background-color: #FF4F51;
+    padding-top: 35px;
+    padding-right: 35px;
+    padding-left: 35px;
+    padding-bottom: 35px;
+    color: #FFFFFF;
+    text-align: center;
+}
+bienvenido1 {
+}
+#menu2 {
+    background-color: #FFEDAF;
+    padding: 10px;
+    width: 67.67%;
+    margin-top: -4%;
+    margin-bottom: 15%;
+    position: fixed;
+    margin-right: 0px;
+}
