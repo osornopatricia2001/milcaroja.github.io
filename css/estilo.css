@@ -99,3 +99,10 @@ bienvenido1 {
     position: fixed;
     margin-right: 0px;
 }
+#foto principal {
+    background-color: #FFFFFF;
+    padding: 10px;
+    width: 65.7%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
